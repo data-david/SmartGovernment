@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Purchase Order (copy)"
+    id="513ad683-e1ee-4e64-92a4-8cc7d120e56a"
+    documentation="må inneholde&#xD;&#xA;- supplier/vendor name, address and contact info&#xD;&#xA;-customer name, address and contact info&#xD;&#xA;-delivery date&#xD;&#xA;-product info&#xD;&#xA;-amount&#xD;&#xA;&#xD;&#xA;legge inn referanse nummer"/>
