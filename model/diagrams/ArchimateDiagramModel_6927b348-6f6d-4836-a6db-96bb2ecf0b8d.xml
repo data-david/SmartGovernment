@@ -54,19 +54,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="1cd151e4-93a0-401d-8785-daced61e4b86"
-        targetConnections="7fbf9619-d908-4f93-b0b3-7a8634de3079 4bcc9ef1-d63a-451a-92d0-1a7be4f10b53">
-      <bounds
-          x="132"
-          y="108"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessService"
-          href="BusinessService_e053d0d5-8447-4d95-b717-acf8216d287d.xml#e053d0d5-8447-4d95-b717-acf8216d287d"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="8eed2415-86df-4b8b-9360-fcf7a8243556">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -466,15 +453,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="4bcc9ef1-d63a-451a-92d0-1a7be4f10b53"
-          source="a1948bd0-d24c-41ac-aace-94101613c3c6"
-          target="1cd151e4-93a0-401d-8785-daced61e4b86">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_4b060f18-c040-49d7-8ee8-db21a67b07e5.xml#4b060f18-c040-49d7-8ee8-db21a67b07e5"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="f588ed62-125c-4c32-9ac1-81473d538793"
           source="a1948bd0-d24c-41ac-aace-94101613c3c6"
           target="704a17c8-9ac1-470f-b00f-4d2e67f04ce2">
@@ -772,15 +750,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="027cfb13-05e2-44bb-9e55-46a8bfbace2f">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="7fbf9619-d908-4f93-b0b3-7a8634de3079"
-        source="027cfb13-05e2-44bb-9e55-46a8bfbace2f"
-        target="1cd151e4-93a0-401d-8785-daced61e4b86">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_f7c262df-59ce-4a3d-bf6a-42a2537fcaa2.xml#f7c262df-59ce-4a3d-bf6a-42a2537fcaa2"/>
-    </sourceConnections>
     <bounds
         x="144"
         y="24"
