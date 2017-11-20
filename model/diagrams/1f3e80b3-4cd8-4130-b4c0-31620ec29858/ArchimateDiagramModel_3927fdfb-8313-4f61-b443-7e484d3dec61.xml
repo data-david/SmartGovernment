@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generated View for Invoice"
-    id="3927fdfb-8313-4f61-b443-7e484d3dec61">
+    id="3927fdfb-8313-4f61-b443-7e484d3dec61"
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a97bb227-c953-4b50-b380-c6898e490a5d"

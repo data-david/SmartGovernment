@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generated View for Receipt"
-    id="3d8251e9-f2ef-447f-9a29-e38cfa5aa71c">
+    id="3d8251e9-f2ef-447f-9a29-e38cfa5aa71c"
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="76a210dc-3dce-400c-ba55-731408eaadd4"

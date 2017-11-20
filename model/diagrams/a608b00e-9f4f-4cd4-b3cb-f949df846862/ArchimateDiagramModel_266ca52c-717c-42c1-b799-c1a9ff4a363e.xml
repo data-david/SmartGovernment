@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SmartGovernment Business (GAP)"
-    id="266ca52c-717c-42c1-b799-c1a9ff4a363e">
+    id="266ca52c-717c-42c1-b799-c1a9ff4a363e"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="eca5fec5-6d12-4bbd-83e6-0781a055b5d0"

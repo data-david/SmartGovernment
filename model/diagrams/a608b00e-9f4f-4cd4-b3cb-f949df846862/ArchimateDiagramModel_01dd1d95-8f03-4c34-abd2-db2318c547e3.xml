@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generated View for b2b"
-    id="01dd1d95-8f03-4c34-abd2-db2318c547e3">
+    id="01dd1d95-8f03-4c34-abd2-db2318c547e3"
+    viewpoint="product">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="dcf4be70-81ed-4d25-8eb9-e60315bb0ee0"

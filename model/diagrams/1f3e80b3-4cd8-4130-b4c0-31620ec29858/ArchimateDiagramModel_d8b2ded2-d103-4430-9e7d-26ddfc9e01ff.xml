@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generated View for Purchase Order"
-    id="d8b2ded2-d103-4430-9e7d-26ddfc9e01ff">
+    id="d8b2ded2-d103-4430-9e7d-26ddfc9e01ff"
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1c7fe3f3-3d01-4322-9e6c-1bd4f9bda26f"

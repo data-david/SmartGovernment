@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generated View for  Process Flow"
-    id="b1628524-eab6-4d4b-8dee-34d95ca19a46">
+    id="b1628524-eab6-4d4b-8dee-34d95ca19a46"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="25c6e96e-766c-4933-9562-87e3f1339649"

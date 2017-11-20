@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generated View for ISO 20022 Bank Transactions"
-    id="5a676c9b-fee8-4577-8079-7afac696ad8a">
+    id="5a676c9b-fee8-4577-8079-7afac696ad8a"
+    viewpoint="requirements_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0bb7c1b9-f768-4dbc-a732-7836b0ec2a0e"
